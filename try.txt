@@ -5,3 +5,10 @@ start git
 4. edit your new files
 5. git add
 6. git commit -m "your version info"
+
+
+#2
+1. creat repository in github account
+2. clone to "sourcetree"
+3. local pc creat working directory
+3. start the new files in working directory and commit push to github
